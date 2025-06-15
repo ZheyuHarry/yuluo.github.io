@@ -54,19 +54,19 @@ interests:
 education:
   - area: Ph.D. Student
     institution: Nankai University
-    date_start: 2025-09
-    date_end: Present
+    date_start: "2025-09"
+    date_end: "2030-06"
 
   - area: Bachelor
     institution: Nankai University
-    date_start: 2021-09
-    date_end: 2025-06
+    date_start: "2021-09"
+    date_end: "2025-06"
 
 work:
   - position: Algorithm Engineer
     company_name: Lenovo, TianJin
-    date_start: 2025-06
-    date_end: 2026-05
+    date_start: "2025-06"
+    date_end: "2026-05"
 
 
 # Skills
