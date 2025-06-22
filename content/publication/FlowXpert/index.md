@@ -37,7 +37,9 @@ summary: FlowXpert is a troubleshooting workflow orchestration framework that us
 
 
 tags:
-  - Large Language Models, Troubleshooting, Workflow Orchestration
+  - Workflow Orchestration
+  - Large Language Models
+  - Troubleshooting
 
 # Display this page in the Featured widget?
 featured: true
