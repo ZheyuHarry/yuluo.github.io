@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 罗宇
+title: Yu Luo
 
 # Name pronunciation (optional)
 name_pronunciation: Yu Luo
