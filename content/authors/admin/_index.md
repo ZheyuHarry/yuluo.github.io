@@ -66,7 +66,7 @@ work:
   - position: Algorithm Engineer
     company_name: Lenovo, TianJin
     date_start: "2025-06-04"
-    date_end: "2026-05-01"
+    # date_end: "2026-05-01"
 
 
 # Skills
@@ -120,7 +120,7 @@ awards:
     url: 
     date: '2023-10-08'
     awarder: Nankai University
-    icon: nankai
+    icon: custom/nankai
     icon_pack: custom
     summary: |
 
@@ -128,7 +128,7 @@ awards:
     url: 
     date: '2024-10-08'
     awarder: Nankai University
-    icon: nankai
+    icon: custom/nankai
     icon_pack: custom
     summary: |
       
@@ -136,7 +136,7 @@ awards:
     url: 
     date: '2025-06-20'
     awarder: Nankai University
-    icon: nankai
+    icon: custom/nankai
     icon_pack: custom
     summary: |
       My undergraduate thesis designed and constructed an end-to-end microservice system fault management framework based on multi-agent collaboration. Verified by comprehensive experiments, it demonstrates high practicality, and was ultimately awarded the Distinguished Undergraduate Thesis Award.
