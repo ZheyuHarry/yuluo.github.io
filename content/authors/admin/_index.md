@@ -120,14 +120,15 @@ awards:
     url: 
     date: '2023-10-08'
     awarder: Nankai University
-    icon: hero/book-open
+    icon: hero/sparkles
+    icon_pack: hero
 
 
   - title: 'Scholarship for Merit and Competence '
     url: 
     date: '2024-10-08'
     awarder: Nankai University
-    icon: hero/book-open
+    icon: hero/sparkles
 
       
   - title: 'Distinguished Undergraduate Thesis Award'
