@@ -55,7 +55,7 @@ education:
   - area: Ph.D. Student
     institution: Nankai University
     date_start: "2025-09-04"
-    date_end: "now"
+    # date_end: "now"
 
   - area: Bachelor
     institution: Nankai University
