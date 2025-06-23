@@ -3,7 +3,7 @@
 title: Yu Luo
 
 # Name pronunciation (optional)
-name_pronunciation: Yu Luo
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Yu
@@ -11,7 +11,7 @@ last_name: Luo
 
 # Status emoji
 status:
-  icon: 🚀 🏀
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -55,7 +55,7 @@ education:
   - area: Ph.D. Student
     institution: Nankai University
     date_start: "2025-09-04"
-    date_end: "2030-06-20"
+    date_end: "now"
 
   - area: Bachelor
     institution: Nankai University
