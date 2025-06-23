@@ -120,23 +120,21 @@ awards:
     url: 
     date: '2023-10-08'
     awarder: Nankai University
-    icon: "custom/nankai"
-    summary: |
+    icon: hero/book-open
 
 
   - title: 'Scholarship for Merit and Competence '
     url: 
     date: '2024-10-08'
     awarder: Nankai University
-    icon: custom/nankai
+    icon: hero/book-open
 
       
   - title: 'Distinguished Undergraduate Thesis Award'
     url: 
     date: '2025-06-20'
     awarder: Nankai University
-    icon: "custom/nankai"
-    icon_pack: custom
+    icon: hero/pencil-square
     summary: |
       My undergraduate thesis designed and constructed an end-to-end microservice system fault management framework based on multi-agent collaboration. Verified by comprehensive experiments, it demonstrates high practicality, and was ultimately awarded the Distinguished Undergraduate Thesis Award.
 ---
