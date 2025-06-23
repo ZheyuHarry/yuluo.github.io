@@ -121,7 +121,6 @@ awards:
     date: '2023-10-08'
     awarder: Nankai University
     icon: "custom/nankai"
-    icon_pack: custom
     summary: |
 
 
@@ -129,9 +128,8 @@ awards:
     url: 
     date: '2024-10-08'
     awarder: Nankai University
-    icon: "custom/nankai"
-    icon_pack: custom
-    summary: |
+    icon: custom/nankai
+
       
   - title: 'Distinguished Undergraduate Thesis Award'
     url: 
