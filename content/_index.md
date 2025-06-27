@@ -32,14 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🔬 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I'm a Ph.D. Student in Nankai University. My research vision is to enable ** unattended intelligent operations and maintenance **, where complex systems can autonomously recover from failures. 
         
-        Please reach out to collaborate 😃
+        Currently, my primary research interest lies in developing a multi-agent system that integrates reinforcement learning and retrieval-augmented generation (RAG) to achieve efficient and automated root cause analysis. 
+
+        Please follow my work! 😃
     design:
       columns: '1'
   - block: collection
@@ -63,16 +63,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:

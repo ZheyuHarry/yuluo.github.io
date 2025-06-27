@@ -116,19 +116,19 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'Scholarship for Academic Excellence'
+  - title: '🎓 Scholarship for Academic Excellence'
     url: 
     date: '2023-10-08'
     awarder: Nankai University
 
 
-  - title: 'Scholarship for Merit and Competence '
+  - title: '🎓 Scholarship for Merit and Competence '
     url: 
     date: '2024-10-08'
     awarder: Nankai University
 
       
-  - title: 'Distinguished Undergraduate Thesis Award'
+  - title: '📝 Distinguished Undergraduate Thesis Award'
     url: 
     date: '2025-06-20'
     awarder: Nankai University
