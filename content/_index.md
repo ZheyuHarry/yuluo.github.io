@@ -35,7 +35,7 @@ sections:
       title: '🔬 My Research'
       subtitle: ''
       text: |-
-        I'm a Ph.D. Student in Nankai University. My research vision is to enable ** unattended intelligent operations and maintenance **, where complex systems can autonomously recover from failures. 
+        I'm a Ph.D. Student in Nankai University. My research vision is to enable unattended intelligent operations and maintenance, where complex systems can autonomously recover from failures. 
         
         Currently, my primary research interest lies in developing a multi-agent system that integrates reinforcement learning and retrieval-augmented generation (RAG) to achieve efficient and automated root cause analysis. 
 
