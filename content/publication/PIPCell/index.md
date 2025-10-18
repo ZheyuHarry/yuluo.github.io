@@ -31,7 +31,7 @@ tags:
 - time series forecasting
 - causal inference
 
-featured: true
+featured: false
 
 links:
 - name: ''

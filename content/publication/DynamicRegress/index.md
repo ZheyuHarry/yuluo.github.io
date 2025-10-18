@@ -37,7 +37,7 @@ tags:
 - Semi-supervised Learning
 
 
-featured: true
+featured: false
 
 links:
 - name: ''
