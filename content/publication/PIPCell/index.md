@@ -26,7 +26,7 @@ abstract: Cellular networks are critical infrastructure for user equipment to ac
 # summary: TrioXpert is an end-to-end framework for incident management in microservice systems that leverages multimodal data and LLM-based collaborative reasoning to handle AD, FT, and RCL tasks with high interpretability. It significantly outperforms baselines across multiple benchmarks.
 
 tags:
-- cellular network
+- Cellular network
 - parameter adjustment
 - time series forecasting
 - causal inference
