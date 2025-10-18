@@ -134,8 +134,20 @@ awards:
     awarder: Nankai University
     summary: |
       My undergraduate thesis designed and constructed an end-to-end microservice system fault management framework based on multi-agent collaboration. Verified by comprehensive experiments, it demonstrates high practicality, and was ultimately awarded the Distinguished Undergraduate Thesis Award.
+
+  - title: '🎓 Scholarship for Merit and Competence'
+    url: 
+    date: '2025-10-08'
+    awarder: Nankai University
+
+
+  - title: '🎓 Scholarship for Postgraduate Recommendation'
+    url: 
+    date: '2025-10-08'
+    awarder: Nankai University
+
 ---
 
 ## About Me
 
-Yu Luo is currently a Ph.D. student at Nankai University, working under the supervision of Prof. [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and Prof. [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/). He received his Bachelor's degree in Software Engineering from Nankai University in 2025. His research interests lie primarily in AIOps, multi-agent systems, and reinforcement learning. He has published 1 high-quality paper at ACM KDD. Currently, he is undertaking an internship as an algorithm engineer at Lenovo.
+Yu Luo is currently a Ph.D. student at Nankai University, working under the supervision of Prof. [Yongqian Sun](https://nkcs.iops.ai/yongqiansun/) and Prof. [Shenglin Zhang](https://nkcs.iops.ai/shenglinzhang/). He received his Bachelor's degree in Software Engineering from Nankai University in 2025. His research interests lie primarily in AIOps, multi-agent systems, and reinforcement learning. He has published 4 high-quality papers (CCF A/B). Currently, he is undertaking an internship as an algorithm engineer at Lenovo.
