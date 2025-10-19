@@ -63,6 +63,22 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: news
+    content:
+        title: Recent News
+        # Hugo Blox 新文档里建议用 folders 指定来源目录（等价于你现在的 page_type）
+        filters:
+        folders:
+            - post
+        count: 7   # 想显示多少条就填多少
+        offset: 0
+        sort_by: 'Date'
+        sort_ascending: false
+    design:
+        view: compact   # 关键：改成紧凑列表
+        columns: '1'    # 单列，避免两列并排
+
   # - block: collection
   #   id: talks
   #   content:
@@ -102,6 +118,7 @@ sections:
 #       # Reduce spacing
 #       spacing:
 #         padding: [0, 0, 0, 0]
+
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

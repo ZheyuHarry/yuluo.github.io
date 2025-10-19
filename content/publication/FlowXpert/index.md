@@ -54,7 +54,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://zheyuharry.github.io/yuluo.github.io/slides/slides-KDD25-FlowXpert.pptx'
 url_source: ''
 url_video: ''
 
