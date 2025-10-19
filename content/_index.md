@@ -69,8 +69,8 @@ sections:
         title: Recent News
         # Hugo Blox 新文档里建议用 folders 指定来源目录（等价于你现在的 page_type）
         filters:
-        folders:
-            - post
+          folders:
+              - post
         count: 7   # 想显示多少条就填多少
         offset: 0
         sort_by: 'Date'
