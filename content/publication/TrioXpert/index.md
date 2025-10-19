@@ -41,7 +41,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://zheyuharry.github.io/yuluo.github.io/slides/TrioXpert-slides.pptx'
+url_slides: 'https://zheyuharry.github.io/yuluo.github.io/slides/TrioXpert-slides.pdf'
 url_source: ''
 url_video: ''
 
