@@ -37,11 +37,11 @@ links:
 - name: ''
   url: ''
 url_pdf: https://nkcs.iops.ai/wp-content/uploads/2025/10/TrioXpert1.pdf
-url_code: ''
-url_dataset: ''
-url_poster: ''
+url_code: 'https://anonymous.4open.science/r/TrioXpert-F244'
+url_dataset: 'https://drive.google.com/file/d/1T3mQgwBrICIQOKjbKnptgQNphPoD2w1W/view?usp=sharing.'
+url_poster: 'https://zheyuharry.github.io/yuluo.github.io/poster/industry-31-poster.pdf'
 url_project: ''
-url_slides: 'https://zheyuharry.github.io/yuluo.github.io/slides/TrioXpert-slides.pdf'
+url_slides: 'https://zheyuharry.github.io/yuluo.github.io/slides/industry-31-slides.pdf'
 url_source: ''
 url_video: ''
 
